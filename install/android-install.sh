@@ -3,7 +3,7 @@
 # Install Python packages using pip3
 pip3 install telethon requests python-telegram-bot
 # Download the Python script
-curl "https://raw.githubusercontent.com/kekoDev/kolpl/main/bot.py" > "bot.py"
+curl "https://raw.githubusercontent.com/jalithon/kolpl/main/bot.py" > "bot.py"
 
 reset
 # Run the Python script
